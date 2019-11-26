@@ -1,0 +1,8 @@
+/**
+ * 
+ */
+var  welcome = function (){
+	return {
+		
+	}
+};
